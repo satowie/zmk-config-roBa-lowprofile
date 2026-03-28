@@ -119,7 +119,7 @@
 
         mb2 {
             bindings = <&mkp MB2>;
-            key-positions = <20 19>;
+            key-positions = <20 18>;
             timeout-ms = <45>;
             require-prior-idle-ms = <100>;
             layers = <0>;
