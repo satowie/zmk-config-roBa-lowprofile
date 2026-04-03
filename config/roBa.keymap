@@ -134,7 +134,7 @@
         };
 
         mb4 {
-            bindings = <&mkp MB4>;
+            bindings = <&kp LG(LC(LEFT_BRACKET))>;
             key-positions = <6 7>;
             timeout-ms = <45>;
             require-prior-idle-ms = <100>;
@@ -142,7 +142,7 @@
         };
 
         mb5 {
-            bindings = <&mkp MB5>;
+            bindings = <&kp LG(RIGHT_BRACKET)>;
             key-positions = <7 8>;
             timeout-ms = <45>;
             require-prior-idle-ms = <100>;
