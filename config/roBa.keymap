@@ -134,7 +134,7 @@
         };
 
         mb4 {
-            bindings = <&kp LG(LC(LEFT_BRACKET))>;
+            bindings = <&kp LG(LEFT_BRACKET)>;
             key-positions = <6 7>;
             timeout-ms = <45>;
             require-prior-idle-ms = <100>;
