@@ -151,7 +151,7 @@
 
         Vol+ {
             bindings = <&kt C_VOLUME_UP>;
-            key-positions = <18 19 20 21>;
+            key-positions = <5 17>;
             timeout-ms = <45>;
             require-prior-idle-ms = <100>;
             layers = <0>;
@@ -159,7 +159,7 @@
 
         vol_down {
             bindings = <&kp C_VOLUME_DOWN>;
-            key-positions = <30 31 32 33>;
+            key-positions = <29 17>;
             timeout-ms = <45>;
             require-prior-idle-ms = <100>;
             layers = <0>;
@@ -167,7 +167,7 @@
 
         play_stop {
             bindings = <&kp C_PLAY_PAUSE>;
-            key-positions = <7 8 9 6>;
+            key-positions = <17 18>;
             timeout-ms = <45>;
             require-prior-idle-ms = <100>;
             layers = <0>;
